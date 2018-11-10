@@ -2,11 +2,11 @@
 
 | __NOMBRE__     | __enlace github__  |
 | ------------- | ------------- |
-| _Juanjo Rodriguez_ | [https://github.com/jeteleco](https://github.com/jeteleco) |
-| _Sergio Aviles Pastor_ | [https://github.com/sergioaviles](https://github.com/sergioaviles) |
-| _Albert Porres_ | [https://github.com/AlbertPorres](https://github.com/AlbertPorres) |
-| _Beatriz Casado Rodriguez_ | [https://github.com/BCRMaster](https://github.com/BCRMaster) |
-| _Jose Colmenero Molina_ | [https://github.com/Moliholy](https://github.com/Moliholy) |
+| _Juanjo Rodriguez_ | [jeteleco](https://github.com/jeteleco) |
+| _Sergio Aviles Pastor_ | [sergioaviles](https://github.com/sergioaviles) |
+| _Albert Porres_ | [AlbertPorres](https://github.com/AlbertPorres) |
+| _Beatriz Casado Rodriguez_ | [BCRMaster](https://github.com/BCRMaster) |
+| _Jose Colmenero Molina_ | [Moliholy](https://github.com/Moliholy) |
 
 
 
